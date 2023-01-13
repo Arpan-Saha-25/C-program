@@ -1,2 +1,3 @@
 # C-program
-SHILPI'S COLLEGE C-PGMS
+ARPAN'S COLLEGE C-PGMS
+first modification
