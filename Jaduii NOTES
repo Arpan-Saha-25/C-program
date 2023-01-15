@@ -1,0 +1,18 @@
+Jaduii NOTES 
+
+call by value = iska matlab h ki jab hum kisi function se koi parameter pass krwayenge toh hum variable ya sidha value pass krwayenge 
+
+call by reference = ka matlab h ki hum kisi function se koi address of variable ko pass krwaye ...
+
+jargon = a special word/expression used by a grp of people that is difficult for others to understand 
+
+jab hum address print krenge toh format specifier "%u" use krenge kyuki address kabhi -ve nhi hoga 
+
+In pointers , "*" called 'value at address operator' or 'indirection operator'
+
+int *j = value at the address stored in j is a integer type value.
+
+int i =3, *j,**k ;					//**k = value at value of the address stored in j  
+j=&i;
+k=&j;
+
