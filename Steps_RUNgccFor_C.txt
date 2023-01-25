@@ -1,0 +1,9 @@
+step 1 : gcc --version
+
+step 2: gcc c -o <filename>.c <filename>.exe
+
+select gcc for c and opens the c file then executable file....
+
+step 3: <filename>.exe 
+
+run executable file . . .. 
