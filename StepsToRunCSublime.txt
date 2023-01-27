@@ -1,0 +1,2 @@
+steps : ctrl + b
+steps : CMD prompt open means your code is working
