@@ -1,8 +1,10 @@
+//enter a number and print its reverse .
 #include<stdio.h>
 int main()
 {
 	int n,reverse=0,remainder=0;
-	scanf("Please enter a number : %d",&n);
+	printf("Please enter the number : ");
+	scanf("%d",&n);
 
 	while (n!=0){
 	remainder= n%10;
@@ -10,6 +12,6 @@ int main()
 	n /=10;
 	}
 
-	printf("Reversed number =%d" , reverse);
+	printf("Reversed number =%d\n" , reverse);
 	return 0;
 }

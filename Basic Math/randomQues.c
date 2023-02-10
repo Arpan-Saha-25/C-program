@@ -5,7 +5,9 @@
 void main(){
 
 int num = 2,m = 3;
-int new = num++ + m--;
+
+int new = num++ + --m ;
+
 printf("%d" , new) ; 
 
 
