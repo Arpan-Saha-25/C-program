@@ -40,7 +40,7 @@ if(chose == 'a' || chose == 'A'){
 	}}
 if(chose == 'd' || chose == 'D'){
 	printf("\n\nYour descending sorted array is : ");
-	for(int i = size-1 ; i>0;i--){
+	for(int i = size-1 ; i>=0;i--){
 		printf("%d ",arr[i]);
 	}
 }
